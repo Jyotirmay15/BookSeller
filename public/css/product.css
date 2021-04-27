@@ -3,25 +3,30 @@
     max-width: 90%;
     margin: auto;
     display: block;
+    /* background-color: #46a091; */
 }
 
 .product-item {
     width: 20rem;
     max-width: 95%;
     margin: 1rem;
+    background-color: #d7ddb5 ;
+
 }
 
 .product__title {
     font-size: 1.2rem;
     text-align: center;
+    color: #412e05;
 }
 
 .product__price {
     text-align: center;
-    color: #4d4d4d;
     margin-bottom: 0.5rem;
+    color: #412e05;
 }
 
 .product__description {
     text-align: center;
+    color: #412e05;
 }
